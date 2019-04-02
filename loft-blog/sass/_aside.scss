@@ -1,0 +1,281 @@
+.aside{
+}
+
+.aside-wrapper{
+	margin-left: 40px;
+	padding-right: 358px;
+	height: 100%;
+	background-color: #fff;
+	border-radius: 5px;
+}
+.aside-block{
+	width: 270px;
+	margin-left: 40px;
+}
+.search-panel{
+}
+
+.aside-block input{
+	outline: none;
+	padding: 0 20px;
+}
+.pink-ellepse{
+	cursor: pointer;
+	position: absolute;
+	display: flex;
+	justify-content:center;
+	align-items:center;
+	color:#fff;
+	border-radius: 17px;
+	width: 35px;
+	height: 35px;
+	background-color: #ff4081;
+}
+.wrapper-ellepse{
+}
+.wrapper-aside-block{
+	position: relative;
+	top:23px;
+	left: 230px;
+}
+#input{
+	margin-top: 20px;
+	border: none;
+	border-radius: 20px;
+	width: 230px;
+	height: 40px;
+	background-color: #f5f5f5;
+}
+.search-icon{
+	width: 35px;
+	height: 35px;
+	border-radius: 15px;
+	border: none;
+	background-color: red;
+}
+.box-search{
+	margin-top: 30px;
+}
+.title__categories{
+	margin-top: 30px;
+	padding-bottom: 5px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+	font-size: 18px;
+	text-transform: uppercase;
+	color:#3f51b5
+}
+.title__categories3{
+	letter-spacing: 1px;
+	margin-top: 50px;
+	padding-bottom: 5px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+	font-size: 18px;
+	text-transform: uppercase;
+	color:#3f51b5
+
+}
+.block-categories{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	display: flex;
+	justify-content: space-between;
+
+}
+.block-categories span{
+font-weight: bold;
+font-family: 'Open Sans', sans-serif;
+font-size: 14px;
+}
+.count{
+font-family: 'Open Sans', sans-serif;
+font-weight: 700;
+}
+.subscribe-box{
+
+}
+.subscribe-box input{
+border: 1px solid#e0e0e0;
+width: 230px;
+height: 45px;
+border-radius: 5px;
+}
+.name-subscribe{
+	font-size: 16px;
+	font-family: 'Open Sans', sans-serif;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	display: block;
+}
+.subscribe-button{
+	letter-spacing: 1px;
+outline: none;
+color:#fff;
+font-family: 'Montserrat', sans-serif;
+text-transform: uppercase;
+margin-top: 10px;
+width: 270px;
+height: 45px;
+background-color: #3f51b5;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+font-weight: bold;
+}
+.or-line{
+width: 50%;
+height: 2px;
+background-color: red;
+}
+.line-or{
+	margin-top: 10px;
+	display: flex;
+	align-items:center;
+}
+.first-line{
+width: 50%;
+height: 1px;
+background-color:#757575;
+}
+.or{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	margin-left: 5px;
+	margin-right: 5px;
+	display: block;
+
+}
+.social-links{
+width: 100%;
+margin-top: 20px;
+display: flex;
+}
+.ellepse-link{
+	margin-right: 10px;
+	display: flex;
+	justify-content:center;
+	align-items:center;
+	width: 35px;
+	height: 35px;
+	border-radius: 30px;
+}
+.color1{
+	background-color: #3b5999;
+	color:#fff;
+}
+.color2{
+	background-color: #55acee;
+	color:#fff;
+}
+.color3{
+	background-color: #4c75a3;
+	color:#fff;
+}
+.color4{
+	background-color: #ff2e56;
+	color:#fff;
+}
+.color5{
+	background-color: #34465d;
+	color:#fff;
+}
+.color6{
+	background-color: #ea4c89;
+	color:#fff;
+}
+.buttons-wiget{
+	width: 270px;
+	height: 40px;
+	border-radius: 5px;
+	border: 1px solid#3f51b5;
+
+}
+.double-button{
+	margin-top: 20px;
+}
+.wiget-buttons{
+	width: 135px;
+	background-color: #3f51b5;
+	height: 40px;
+	text-transform: uppercase;
+	color:#fff;
+	border: none;
+	border-radius: 5px 0 0 5px;
+}
+.wiget-buttons1{
+	width: 135px;
+	background-color: #fff;
+	height: 40px;
+	text-transform: uppercase;
+	color:#3f51b5;
+	border: 1px solid#3f51b5;
+	border-radius: 0 5px 5px 0;
+}
+.wiget-box{
+
+}
+.wiget__user-post{
+	margin-top: 20px;
+	margin-bottom: 15px;
+display: flex;
+}
+.offer-wiget__user-post{
+margin-left: 15px;
+
+}
+.offer-wiget__user-post img{
+	float: right;
+}
+.date-wiget__user-post{
+	font-family: 'Open Sans', sans-serif;
+}
+.wiget-text{
+font-family: 'Open Sans', sans-serif;
+font-weight: bold;
+display: block;
+font-size: 14px;
+}
+.blue-line{
+	background-color: #aec3ff;
+}
+.tags-button{
+	margin-top: 20px;
+}
+.tags-button button{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+	cursor: pointer;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	outline: none;
+	background-color: #eeeeee;
+	border: none;
+	color:#1f1f1f;
+	height: 30px;
+	border-radius: 5px;
+
+
+}
+.Photography{
+width: 120px;
+}
+.Webdesign{
+width: 110px;
+}
+.Youtube{
+width: 100px;
+}
+.Evanto{
+width: 80px;
+}
+.Art{
+width: 60px;
+}
+.Themefortest{
+	width: 130px;
+
+}
+.Ilustration{
+width: 110px;
+}

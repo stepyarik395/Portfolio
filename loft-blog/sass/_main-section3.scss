@@ -1,0 +1,45 @@
+.main-section3{
+	background:url("../img/Layer 60.png");
+	height: 200px;
+}
+.container__main-section2{
+	height: 100%;
+	margin-left: 375px;
+	margin-right: 375px;
+	display: flex;
+	align-items:center;
+}
+.title__main-section2{
+white-space: nowrap;
+letter-spacing: 2px;
+color:#fff;
+font-size: 40px;
+font-family: 'Montserrat', sans-serif;
+font-weight: 900;
+}
+#input2{
+padding:0 15px;
+color:#fff;
+background-color: transparent;
+outline: none;
+margin-left: 40px;
+width: 270px;
+height: 45px;
+border-radius: 40px;
+border: 1px solid#747577;
+}
+.button__main-section2{
+	font-weight: 400;
+font-size: 16px;
+letter-spacing: 1px;
+cursor: pointer;
+outline: none;
+margin-left: 30px;
+width: 180px;
+height: 45px;
+border-radius: 40px;
+border: none;
+text-transform: uppercase;
+color:#fff;
+background-color: #303f9f;
+}

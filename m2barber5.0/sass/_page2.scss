@@ -1,0 +1,165 @@
+.container-page2{
+	margin-left: 230px;
+	margin-right: 230px;
+	background-color: #950303;
+
+}
+.head-page2{
+	justify-content:center;
+	display: flex;
+	align-items:center;
+}
+.fas{
+
+	color:#ffcc00;
+	margin-right: 10px;
+}
+.left-content{
+
+}
+.left-content a{
+	font-size: 25px;
+	color:#ffcc00;
+
+}
+.prev{
+	text-decoration: none;
+	text-transform: uppercase;
+	color:#ffcc00;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 500;
+	font-size: 18px;
+	letter-spacing: 2.7px;
+
+}
+.wrapper-yellow-block{
+
+}
+.yellow-block2{
+	transform:rotate(-90deg);
+	margin-top: 46%;
+	width: 550px;
+	height: 100px;
+	border: 3px solid#ffcc00;
+
+
+}
+.name-vacan{
+	height: 100%;
+	display: flex;
+	justify-content:center;
+	align-items:center;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 500;
+	font-size: 24px;
+	color:#ffcc00;
+
+
+}
+.main-content-page2{
+	display: flex;
+
+}
+.titile__main-content-page2{
+	margin-top: 20px;
+	text-transform: uppercase;
+	font-weight: 500;
+	margin-left: 76px;
+	font-size: 89px;
+	font-family: 'Ubuntu', sans-serif;
+	opacity: 0.2;
+	color:#ffcc00;
+	letter-spacing: 35.8px;
+
+
+
+
+}
+.list-title-page2{
+	margin-top: 30px;
+		font-size: 24px;
+	font-family: 'Ubuntu', sans-serif;
+	color:#ffcc00;
+	letter-spacing: 0.4px;
+	font-weight: 500;
+
+}
+.lists-container{
+	position: relative;
+	right: 100px;
+
+}
+
+.duties-list{
+	list-style-type: none;
+
+}
+.duties-list li{
+	line-height: 1.2;
+	letter-spacing: 0.4px;
+	font-size: 14px;
+	font-family: 'Ubuntu', sans-serif;
+	color:#fff;
+	font-weight: 500;
+
+}
+.duties-list li:before{
+	content: '-';
+
+}
+
+.Requirements-list{
+	list-style-type: none;
+
+}
+.Requirements-list li{
+	line-height: 1.2;
+	letter-spacing: 0.4px;
+	font-size: 14px;
+	font-family: 'Ubuntu', sans-serif;
+	color:#fff;
+	font-weight: 500;
+
+}
+.Requirements-list li:before{
+	content: '-';
+
+}
+.working-conditions-list{
+	list-style-type: none;
+
+}
+.working-conditions-list li{
+	line-height: 1.2;
+	letter-spacing: 0.4px;
+	font-size: 14px;
+	font-family: 'Ubuntu', sans-serif;
+	color:#fff;
+	font-weight: 500;
+
+}
+.working-conditions-list li:before{
+	content: '-';
+
+}
+
+.telephon-list{
+	padding-bottom: 40px;
+	margin-top: 100px;
+	display: block;
+	font-size: 24px;
+	font-family: 'Ubuntu', sans-serif;
+	letter-spacing: 0.4px;
+	color:#ffcc00;
+	font-weight: 500;
+
+}
+.telephon-list a{
+	text-decoration: none;
+	font-size: 24px;
+	font-family: 'Ubuntu', sans-serif;
+	letter-spacing: 0.4px;
+	color:#ffcc00;
+	font-weight: 500;
+
+}

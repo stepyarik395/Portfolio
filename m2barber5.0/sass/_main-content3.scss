@@ -1,0 +1,68 @@
+.main-content3{
+	background:url("../img/photo-3-screen.png") center;
+	margin-left: 230px;
+	margin-right: 230px;
+	background-size: cover;
+
+}
+.wrapper-double{
+	margin-top: 60px;
+	display: flex;
+	justify-content:space-around;
+}
+.section-title3{
+	opacity: 0.7;
+	color:#ffffff;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 72px;
+	margin-left: 120px;
+	padding-top: 83px;
+
+}
+.first-list{
+	margin-right: 40px;
+	margin-left: 120px;
+
+}
+.disp{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	display: flex;
+	justify-content:space-between;
+}
+.Name-service{
+color:#fff;
+display: block;
+font-family: 'Ubuntu', sans-serif;
+font-size: 17px;
+}
+.price-service{
+	color:#fff;
+	display: block;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 17px;
+
+}
+.separating-line{
+	height: 1px;
+	width: 455px;
+	margin-left: 10px;
+	background-color: #fff;
+
+
+}
+.separating-linem{
+	display: none;
+	height: 1px;
+	width: 330px;
+	margin-left: 10px;
+	background-color: #fff;
+
+}
+.second-list{
+	margin-right: 121px;
+
+}
+.main-content3__button{
+	margin-top: 60px;
+}
